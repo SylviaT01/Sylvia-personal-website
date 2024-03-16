@@ -14,6 +14,7 @@ My website is live at (https://sylviat01.github.io/Sylvia-personal-website/)
 ## Requirements
 - Basic programming knowledge, HTML and JavaScript
 - Visual Studio as code editor
+- Vercel
 ## Contributing
 Contributions to the Build a Website project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 Email me at [Sylvia Chebet](sylviachebet03@gmail.com)
