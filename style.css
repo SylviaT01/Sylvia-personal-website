@@ -57,8 +57,7 @@ img.rounded {
 #about p {
   text-align: center;
   font-size: medium;
-
-
+  margin: 0 auto;
 }
 
 button {
