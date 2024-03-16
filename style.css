@@ -4,7 +4,7 @@
   text-decoration: none;
   margin: 0;
   padding: 0;
-  
+
 }
 
 .main {
@@ -13,11 +13,13 @@
   position: relative;
   overflow: hidden;
   background-image: url("https://img.freepik.com/free-vector/realistic-podium-3d-rendering_52683-69212.jpg?t=st=1709972773~exp=1709976373~hmac=025e4135f280173c17bc2f2726e0d1abae27655f1615d6562217143b0630ba05&w=740");
-  
+
 }
-.salutation{
-  font-size: small;
+
+.salutation {
+  font-size: medium;
 }
+
 nav {
   display: flex;
   justify-content: space-between;
@@ -37,6 +39,7 @@ nav {
 img.rounded {
   border-radius: 100px;
 }
+
 .about {
   display: flex;
   justify-content: space-between;
@@ -45,17 +48,20 @@ img.rounded {
   padding: 20px;
   max-height: -50px;
 }
-#about h1{
+
+#about h1 {
   text-align: center;
   padding: 10px;
 }
-#about p{
+
+#about p {
   text-align: center;
   font-size: medium;
 
 
 }
-button{
+
+button {
   font-size: 18px;
   border-radius: 50px;
   background-color: aquamarine;
@@ -63,6 +69,7 @@ button{
   padding: 10px 20px;
   border: 3px solid black;
 }
+
 .more {
   display: flex;
   justify-content: center;
@@ -93,11 +100,13 @@ footer {
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  
+
 }
-footer h2{
+
+footer h2 {
   font-size: medium;
 }
-footer p{
+
+footer p {
   font-size: medium;
 }
