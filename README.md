@@ -16,7 +16,6 @@ My website is live at (https://sylviat01.github.io/Sylvia-personal-website/)
 - Visual Studio as code editor
 - Vercel for deployment purposes
 ## Contributing
-Contributions to the Build a Website project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-Email me at [Sylvia Chebet](sylviachebet03@gmail.com)
+Contributions to my website project are welcome. Email me at [Sylvia Chebet](sylviachebet03@gmail.com)
 ## Author
 Created by [Sylvia Chebet].
